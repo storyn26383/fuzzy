@@ -1,5 +1,5 @@
 {
-    "name": "sasaya/unit-test",
+    "name": "sasaya/fuzzy",
     "authors": [
         {
             "name": "Sasaya",
@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "src"
+            "Sasaya\\": "src"
         }
     },
     "require-dev": {
